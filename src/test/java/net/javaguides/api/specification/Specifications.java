@@ -6,7 +6,6 @@ import io.restassured.builder.ResponseSpecBuilder;
 import io.restassured.specification.RequestSpecification;
 import io.restassured.specification.ResponseSpecification;
 import net.javaguides.ui.utils.Constants;
-
 import static io.restassured.http.ContentType.JSON;
 import static java.util.concurrent.TimeUnit.SECONDS;
 import static org.hamcrest.Matchers.lessThanOrEqualTo;
